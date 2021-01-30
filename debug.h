@@ -1,6 +1,6 @@
 #ifdef DEBUG	/* keep these macros common so they are same for both versions */
 CONST int debugCompile	=	1;
-extern  int	debug;
+int	debug = 0;
 extern  void DebugIO(CONST char *s);	/* display the debug output */
 
 #define DebugDump(x,s,R,XOR,doRot,showT,needBswap)	\
