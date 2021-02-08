@@ -1,7 +1,5 @@
 /*
- * blowfish.h -- part of blowfish.mod
- *
- * $Id: blowfish.h,v 1.6 2001/04/12 02:39:44 guppy Exp $
+ * twofish.h -- part of twofish.mod
  */
 /*
  * Copyright (C) 1997 Robey Pointer

@@ -1,5 +1,4 @@
 # Makefile for src/mod/${MYNAME}.mod/
-# $Id: Makefile,v 1.11 2000/09/12 15:26:51 fabian Exp $
 
 MYNAME=twofish
 srcdir = .
