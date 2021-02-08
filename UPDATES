@@ -1,0 +1,4 @@
+2.2
+-  Now also works with eggdrop 1.8.4. (Michael Ortmann)
+2.1
+-  Modified to run on eggdrop 1.8.x (pseudo)
