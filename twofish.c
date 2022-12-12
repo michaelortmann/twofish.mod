@@ -25,8 +25,8 @@ static int twofish_expmem()
 static void twofish_report(int idx, int details)
 {
   if (details) {
-    dprintf(idx, "    Twofish encryption module:\n");
-    dprintf(idx, "    Thanks for using Twofish! You rock!\n");
+    dprintf(idx, "    Twofish encryption module:\n"
+                 "    Thanks for using Twofish! You rock!\n");
   }
 }
 

@@ -1,7 +1,7 @@
 2.3
 - Fixed typos (Michael Ortmann)
 - Removed register keyword (Michael Ortmann)
-- Dont print empty line for .status (Michael Ortmann)
+- Enhanced twofish_report() (Michael Ortmann)
 2.2
 - Now also works with eggdrop 1.8.4. (Michael Ortmann)
 2.1
