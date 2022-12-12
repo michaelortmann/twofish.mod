@@ -1,4 +1,5 @@
 2.3
+- Removed register keyword (Michael Ortmann)
 - Dont print empty line for .status (Michael Ortmann)
 2.2
 - Now also works with eggdrop 1.8.4. (Michael Ortmann)
