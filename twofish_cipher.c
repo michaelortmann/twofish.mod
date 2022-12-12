@@ -598,7 +598,7 @@ int reKey(keyInstance *key)
 
 
 #if !CHECK_TABLE
-#if defined(USE_ASM)				/* only do this if not using assember */
+#if defined(USE_ASM)				/* only do this if not using assembler */
 if (!(useAsm & 4))
 #endif
 #endif

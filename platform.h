@@ -39,7 +39,7 @@
 		for BYTE and DWORD should work automatically for most platforms.
 
 		In addition, to maximimize performance, it is recommended that 
-		the following macros should	be modified to use instrinsic CPU opcodes, 
+		the following macros should	be modified to use intrinsic CPU opcodes, 
 		if possible:
 			a) ROL and ROR
 			b) for big endian CPUs, BSWAP(x) and _b(x,N)

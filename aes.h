@@ -125,7 +125,7 @@ typedef struct
 	DWORD iv32[BLOCK_SIZE/32];		/* CBC IV bytes arranged as dwords */
 	} cipherInstance;
 
-/* Function protoypes */
+/* Function prototypes */
 int makeKey(keyInstance *key, BYTE direction, int keyLen, char *keyMaterial);
 
 int cipherInit(cipherInstance *cipher, BYTE mode, char *IV);
