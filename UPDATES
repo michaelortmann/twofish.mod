@@ -1,3 +1,5 @@
+2.4
+- Cleanup alloc() (Michael Ortmann)
 2.3
 - Fixed typos (Michael Ortmann)
 - Removed register keyword (Michael Ortmann)
