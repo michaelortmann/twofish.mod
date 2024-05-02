@@ -2,7 +2,6 @@
 #define MAKING_ENCRYPTION
 
 #include "src/mod/module.h"
-#include "twofish.h"
 
 #define LittleEndian 1
 #define ALIGN32 0
