@@ -274,7 +274,7 @@ char *twofish_start(Function *global_funcs)
     if (!module_rename("twofish", MODULE_NAME))
       return "Already loaded.";
 
-    module_register(MODULE_NAME, twofish_table, 2, 4);
+    module_register(MODULE_NAME, twofish_table, 2, 5);
     if (!module_depend(MODULE_NAME, "eggdrop", 108, 4)) {
       module_undepend(MODULE_NAME);
       return "This module requires Eggdrop 1.8.4 or later.";

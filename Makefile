@@ -41,5 +41,4 @@ twofish.o: .././twofish.mod/twofish.c ../../../src/mod/module.h \
  ../../../src/tclhash.h ../../../src/chan.h ../../../src/users.h \
  ../../../src/compat/compat.h ../../../src/compat/snprintf.h \
  ../../../src/compat/strlcpy.h ../../../src/mod/modvals.h \
- ../../../src/tandem.h .././twofish.mod/aes.h \
- .././twofish.mod/platform.h
+ ../../../src/tandem.h .././twofish.mod/aes.h .././twofish.mod/platform.h
